@@ -1,2 +1,2 @@
 # This repository has been moved to
-## https://github.com/svenar-iot/esphome-midea-heatpump
+## https://github.com/svenar-iot/esphome-heatpump
